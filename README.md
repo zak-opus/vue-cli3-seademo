@@ -1,6 +1,6 @@
 # demo
 
-![](C:\Users\hspcadmin\Desktop\微信图片_20220113170915.png)
+![](https://raw.githubusercontent.com/zak-opus/vue-cli3-seademo/master/src/assets/hello.png)
 
 ## Project setup
 ```
